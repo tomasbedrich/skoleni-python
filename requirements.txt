@@ -1,0 +1,8 @@
+beautifulsoup4==4.5.0
+bs4==0.0.1
+Jinja2==2.8
+MarkupSafe==0.23
+peewee==2.8.1
+pyaml==15.8.2
+PyYAML==3.11
+requests==2.10.0
