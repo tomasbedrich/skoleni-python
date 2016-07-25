@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<catalog>
+    {% for book in books %}
+    <book id="{{ book.id }}">
+        <author>{{ book.author }}</author>
+        <title>{{ book.title }}</title>
+        <genre>{{ book.genre }}</genre>
+        <price>{{ "{:.2f}".format(book.price) }}</price>
+        <publish_date>{{ book.date.strftime('%Y-%m-%d') }}</publish_date>
+        <description>{{ book.description or "No description." }}</description>
+    </book>
+    {% endfor %}
+</catalog>

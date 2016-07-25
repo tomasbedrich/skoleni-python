@@ -1,0 +1,21 @@
+{
+  "widget": {
+    "window": {
+      "height": 640,
+      "width": 480,
+      "title": "Ahoj!",
+      "name": null
+    },
+    "debug": "off",
+    "text": {
+      "size": 36,
+      "data": "Click Here",
+      "vOffset": 100,
+      "style": "bold",
+      "name": "text1",
+      "hOffset": 250,
+      "alignment": "center",
+      "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
+    }
+  }
+}

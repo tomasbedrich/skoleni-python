@@ -1,0 +1,8 @@
+- martin:
+    job: Developer
+    name: Martin D'vloper
+    skills: [python, perl, pascal]
+- tabitha:
+    job: Developer
+    name: Tabitha Bitumen
+    skills: [lisp, fortran, erlang]
