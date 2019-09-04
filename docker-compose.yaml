@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  notebook:
+    image: tomasbedrich/skoleni-python:latest
+    build: .
+    volumes:
+      - ./:/notebooks
+    ports:
+      - 8888:8888
