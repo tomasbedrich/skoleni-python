@@ -7,4 +7,6 @@ services:
     volumes:
       - ./:/notebooks
     ports:
-      - 8888:8888
+      - "8888:8888"  # Jupyter notebooks
+      - "5000:5000"  # demo Flask app
+      - "6633:6633"  # ZMQ communication for demo Flask app

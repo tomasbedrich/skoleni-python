@@ -11,11 +11,16 @@ name = "pypi"
 RISE = "==5.*"
 
 "beautifulsoup4" = "==4.*"
-click = "==6.*"
 "Jinja2" = "==2.*"
 peewee = "==2.*"
 PyYAML = "==5.*"
 requests = "==2.*"
+
+# requirements for https://github.com/tomasbedrich/skoleni-python-knihovny
+Flask = "==1.*"
+matplotlib = "==3.*"
+pyzmq = "==18.*"
+click = "==7.*"
 
 
 [dev-packages]
