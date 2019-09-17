@@ -3,7 +3,7 @@ version: "3"
 services:
   notebook:
     image: tomasbedrich/skoleni-python:latest
-    build: .
+#    build: .
     volumes:
       - ./:/notebooks
     ports:
