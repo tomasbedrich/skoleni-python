@@ -463,11 +463,11 @@
         },
         "rise": {
             "hashes": [
-                "sha256:5a3d529170d707ff0af42bf12f9584b5089baf401643d136d052a66cb4210052",
-                "sha256:ba94321aee993cb2f0647c0db8688064afcff6000576f0fcb1e98652abc629e3"
+                "sha256:24d22dabe4d1ddfab83c42de113353b377dd6d212a1d6fd667a29d00b2ede581",
+                "sha256:2be45c3dbe27e63aae047c6a90be19798b6e17e9b6b0e25408b3c4f645658e26"
             ],
             "index": "pypi",
-            "version": "==5.5.1"
+            "version": "==5.6.0"
         },
         "send2trash": {
             "hashes": [
