@@ -12,7 +12,7 @@ RISE = "==5.*"
 
 "beautifulsoup4" = "==4.*"
 "Jinja2" = "==2.*"
-peewee = "==2.*"
+peewee = "==3.*"
 PyYAML = "==5.*"
 requests = "==2.*"
 
