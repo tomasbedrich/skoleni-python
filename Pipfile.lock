@@ -39,6 +39,7 @@
         },
         "bleach": {
             "hashes": [
+                "sha256:44f69771e2ac81ff30d929d485b7f9919f3ad6d019b6b20c74f3b8687c3f70df",
                 "sha256:aa8b870d0f46965bac2c073a93444636b0e1ca74e9777e34f03dd494b8a59d48"
             ],
             "version": "==3.1.1"
@@ -470,11 +471,11 @@
         },
         "rise": {
             "hashes": [
-                "sha256:24d22dabe4d1ddfab83c42de113353b377dd6d212a1d6fd667a29d00b2ede581",
-                "sha256:2be45c3dbe27e63aae047c6a90be19798b6e17e9b6b0e25408b3c4f645658e26"
+                "sha256:1343f068d01adc4dd0226d9b278ce93fc92f365d827431a57e8d5679eb39f4d6",
+                "sha256:e9637ee5499ad7801474da53a2c830350a44b2192c2f113594e4426190e55ad4"
             ],
             "index": "pypi",
-            "version": "==5.6.0"
+            "version": "==5.6.1"
         },
         "send2trash": {
             "hashes": [
@@ -492,10 +493,10 @@
         },
         "soupsieve": {
             "hashes": [
-                "sha256:bdb0d917b03a1369ce964056fc195cfdff8819c40de04695a80bc813c3cfa1f5",
-                "sha256:e2c1c5dee4a1c36bcb790e0fabd5492d874b8ebd4617622c4f6a731701060dda"
+                "sha256:e914534802d7ffd233242b785229d5ba0766a7f487385e3f714446a07bf540ae",
+                "sha256:fcd71e08c0aee99aca1b73f45478549ee7e7fc006d51b37bec9e9def7dc22b69"
             ],
-            "version": "==1.9.5"
+            "version": "==2.0"
         },
         "terminado": {
             "hashes": [
