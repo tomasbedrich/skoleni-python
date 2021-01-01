@@ -453,10 +453,10 @@
         },
         "peewee": {
             "hashes": [
-                "sha256:1269a9736865512bd4056298003aab190957afe07d2616cf22eaf56cb6398369"
+                "sha256:59c5ef43877029b9133d87001dcc425525de231d1f983cece8828197fb4b84fa"
             ],
             "index": "pypi",
-            "version": "==3.13.3"
+            "version": "==3.14.0"
         },
         "pexpect": {
             "hashes": [
