@@ -19,7 +19,7 @@ requests = "==2.*"
 # requirements for https://github.com/tomasbedrich/skoleni-python-knihovny
 Flask = "==1.*"
 matplotlib = "==3.*"
-pyzmq = "==20.*"
+pyzmq = "==22.*"
 click = "==7.*"
 
 
